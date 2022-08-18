@@ -1,2 +1,2 @@
-Branch : TT1 <<<<<<< other_details
-City : Ludhiana >>>>>>> main
+Branch : TT1
+City : Ludhiana
